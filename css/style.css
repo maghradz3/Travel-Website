@@ -1,0 +1,108 @@
+
+
+/* body{
+    height: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../images/photo-1519046904884-53103b34b206.avif);
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 20px;
+
+} */
+
+body{height: 2000px;
+    height: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../images/photo-1519046904884-53103b34b206.avif);
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+
+}
+.header{ height: 2000px;
+    height: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../images/photo-1519046904884-53103b34b206.avif);
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    
+
+
+}
+           
+
+.fa-plane-departure{
+    font-size: 20px;
+    color: aliceblue;
+        font-weight: 500px  ;
+        float: left;
+        /* padding-top: 200px; */
+            
+}
+
+.login-button{ 
+            width: 100px;
+                padding: 10px 0;
+                background: transparent;
+                color: #fff;
+                border: 2px solid #fff;
+                border-radius: 60px;
+                float: right;
+                }
+
+.header h1{ padding-top: 200px;
+            color: #fff;
+            font-size: 50px;
+            margin-bottom: 50px;
+}
+
+
+.input-group{
+    width: 90%;
+    max-width: 500px;
+    border-radius: 30px;
+    background:#fff;
+    margin:auto;
+    padding: 2px;   
+    
+
+}
+.form-control{
+    border: 0 !important;
+    border-radius: 30px !important;
+    margin:2px;
+    box-shadow: none !important;
+
+}
+
+.input-group-append{
+    width: 100px;
+    background-image: linear-gradient(rgba(37, 143, 2, 0.6),rgba(87, 3, 3, 0.6));
+    border: 0 !important;
+    color: #fff;
+    box-shadow: 0;
+    border-radius: 40px;
+    padding: auto !important;;
+            }
+
+
+
+
+.input-group:hover{
+            outline:2px solid rgb(167, 224, 255);
+            
+}
+
+/* .form-control:hover{outline: red;} */
+
+
+.features {margin-top: 200px;
+     width: 100%;
+    height: 300px;
+        background-color: white;
+    text-align: center;
+    padding-top: 40px;
+                }
